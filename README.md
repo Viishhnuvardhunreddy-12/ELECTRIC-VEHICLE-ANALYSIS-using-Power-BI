@@ -105,19 +105,6 @@ The dataset used for this project can be found here:
 
 🔗 Electric Vehicle Population Dataset
 
-(Replace this link if you have a different dataset source)
-
-⚡ How to Use
-
-Clone this repository:
-
-git clone https://github.com/your-username/Electric-Vehicle-Analysis.git
-
-
-Open ELECTRIC VEHICLE ANALYSIS.pbix in Power BI Desktop.
-
-Refresh the data connection if required.
-
 Explore the dashboard with interactive filters.
 
 🚀 Future Improvements
