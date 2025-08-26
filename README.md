@@ -41,7 +41,7 @@ The dataset used for this project can be found here:
 ## ⚡ How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.comViishhnuvardhunreddy-12/Electric-Vehicle-Analysis.git
+   git clone https://github.com/Viishhnuvardhunreddy-12/Electric-Vehicle-Analysis.git
 
 
 You said:
