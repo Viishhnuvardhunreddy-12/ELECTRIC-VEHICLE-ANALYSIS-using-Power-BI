@@ -34,8 +34,6 @@ The dataset used for this project can be found here:
 
 🔗 [Electric Vehicle Population Dataset](https://catalog.data.gov/dataset/electric-vehicle-population-data)  
 
-*(Replace this link if you have a different dataset source)*  
-
 ---
 
 ## ⚡ How to Use  
