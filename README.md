@@ -4,7 +4,7 @@
 This repository contains a **Power BI Dashboard** that provides an in-depth analysis of **Electric Vehicles (EVs)** adoption, usage, and growth trends. The dashboard helps to visualize:  
 
 - Market adoption of EVs  
-- Trends in sales and usage  
+- Trends in usage  
 - Distribution of EVs by manufacturer, model, and region  
 - Charging infrastructure analysis  
 
